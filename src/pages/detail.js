@@ -1,5 +1,5 @@
-import { useState } from 'react'
 import { useWeb3React } from "@web3-react/core";
+import CardNFT from '../'
 import { useParams } from "react-router-dom";
 import { useNFTDetail } from "../hooks/useNFTsData";
 import { Card, Grid, Text, Button } from "@nextui-org/react";
