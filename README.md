@@ -4,6 +4,6 @@ personal market nft deployed on ethereum testnet, create avatars by NFTs, sell a
 
 # Technologies
 
-## We3.js
-## react-web3
-## nextui
+- We3.js
+- react-web3
+- nextui
