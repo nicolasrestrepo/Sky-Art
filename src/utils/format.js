@@ -1,0 +1,1 @@
+export const formatBalanceEth = (balance) => (balance / 1e18).toFixed(2)
